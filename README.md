@@ -2,7 +2,7 @@
 
 Terraform deployment of Jaeger
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/eb92b423307e4e10829796e072485f15)](https://www.codacy.com/gh/mikesupertrampster-corp/terraform-jaeger/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mikesupertrampster-corp/terraform-jaeger&amp;utm_campaign=Badge_Grade)
+[![Snyk Infrastructure as Code](https://github.com/mikesupertrampster-corp/terraform-jaeger/actions/workflows/snyk.yml/badge.svg)](https://github.com/mikesupertrampster-corp/terraform-jaeger/actions/workflows/snyk.yml) [![gitleaks](https://github.com/mikesupertrampster-corp/terraform-jaeger/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/mikesupertrampster-corp/terraform-jaeger/actions/workflows/gitleaks.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/eb92b423307e4e10829796e072485f15)](https://www.codacy.com/gh/mikesupertrampster-corp/terraform-jaeger/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mikesupertrampster-corp/terraform-jaeger&amp;utm_campaign=Badge_Grade)
 
 ## Resources
 
