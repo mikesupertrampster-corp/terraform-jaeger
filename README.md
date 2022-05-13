@@ -42,4 +42,4 @@ Estimate cost generated using [Infracost](https://github.com/Infracost/infracost
   ∙ 1 x aws_lb_listener_rule
   ∙ 1 x aws_lb_target_group
   ∙ 1 x aws_security_group
-```                                                                                                                                               	|                                                                          	|               	|              $9.01 	|
+```
